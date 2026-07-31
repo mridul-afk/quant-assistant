@@ -1,0 +1,2 @@
+python cli.py fetch-data --tickers INFY.NS --start 2020-01-01
+python cli.py analyze --ticker INFY.NS
